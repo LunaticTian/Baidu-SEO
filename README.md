@@ -40,12 +40,12 @@
 ### getURL.py
 修改url为自己的接口地址。
 
-Restful服务器接受json链接，循环推送地址。
+Restful服务器接受json链接，循环推送地址.
 
 
 
 ## 其他版本
 
-若未由服务器，可自行修改push.py文件，将getURL.py中的baidu()方法移至push.py中，修改push中json为str。
+若未有服务器，可自行修改push.py文件，将getURL.py中的baidu()方法移至push.py中，修改push中json为str。
 
 
